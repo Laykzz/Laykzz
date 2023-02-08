@@ -28,8 +28,6 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Debian-d70a53?style=for-the-badge&logo=debian&logoColor=white" alt="Ubuntu">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">&nbsp;&nbsp;
 </p>
 
 <hr>
