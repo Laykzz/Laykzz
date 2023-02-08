@@ -37,6 +37,8 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">&nbsp;&nbsp;    
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;&nbsp;    
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio Code">&nbsp;&nbsp;
+     
 </p>
 
 ---
@@ -44,7 +46,7 @@
 
 <h1 align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ZeusSeinGrossopa/count.svg" />
+  <img src="https://profile-counter.glitch.me/Laykzz/count.svg" />
 </h1>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ZeusSeinGrossopa&area=true&hide_border=true&theme=gotham)  
