@@ -18,7 +18,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;&nbsp;
 </p>
 
 <hr>
