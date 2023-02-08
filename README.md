@@ -49,11 +49,8 @@
   <img src="https://profile-counter.glitch.me/Laykzz/count.svg" />
 </h1>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ZeusSeinGrossopa&area=true&hide_border=true&theme=gotham)  
+![TropicalDreams](https://dc.tropicaldreams.eu)  
 
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=ZeusSeinGrossopa&theme=tokyonight_duo&hide_border=true&border_radius=20" alt="Zeus's Stats"/>
-</p>
 
 
 ---
