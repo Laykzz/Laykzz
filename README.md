@@ -49,7 +49,7 @@
   <img src="https://profile-counter.glitch.me/Laykzz/count.svg" />
 </h1>
 
-![TropicalDreams](https://dc.tropicaldreams.eu)  
+![TropicalDreams]([https://dc.tropicaldreams.eu](https://discord.gg/pdbvZdxtxS))  
 
 
 
