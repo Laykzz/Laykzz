@@ -1,13 +1,8 @@
 <img widgh=150% src="https://camo.githubusercontent.com/083fbca627ac3484f204327a4e9484f80357f9a89e169c6156601b6989cb8771/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d686561646572"/>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=2000&pause=350&color=33F6F7&center=true&width=1000&lines=Hi+There!;Welcome+on+my+Github+Profile!;HI!+I'm+Laykzz;a+self-taught+programmer." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=350&color=33F6F7&center=true&width=1000&lines=Hi+There!;Welcome+on+my+Github+Profile!;HI!+I'm+Laykzz;a+self-taught+programmer." alt="Typing SVG" /></a>
 
-
-<h1 align="center">
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=F7F7F7&width=240&lines=Hey%2C+I'm+Laykzz%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
-     
-</h1>
 
 
 <hr>
